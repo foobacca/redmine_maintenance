@@ -1,3 +1,5 @@
-= maintenance
+= Redmine Maintenance Plugin
 
-Description goes here
+This plugin is for using Redmine to manage housing maintenance issues.
+
+It is initially being developed for Argyle Street Housing Co-operative - http://www.ash.coop/ - though it will hopefully later be made suitable for more general use.
