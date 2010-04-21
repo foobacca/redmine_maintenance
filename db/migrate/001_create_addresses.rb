@@ -1,6 +1,7 @@
 class CreateAddresses < ActiveRecord::Migration
   def self.up
     create_table :addresses do |t|
+      t.column :order, :integer
       t.column :address, :string
     end
   end
